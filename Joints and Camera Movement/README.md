@@ -1,4 +1,4 @@
-# Model Viewer
+# Joints and Camera
 ### Description
 Continuing my progress with learning OpenGL. This builds upon the Model Viewer to include camera movement that simulates walking, joint manipulation at the shoulders,
 elbows, hips and knees, and multiple spawning. I also added a new pig model.
