@@ -5,5 +5,5 @@ with walk animation and additionally added a jumping in place animation loop. Th
 
 ### Screenshots:
 
-![Output1](https://imgur.com/iITKBdv)
-![Output2](https://imgur.com/a7q4jlr)
+![Output1](https://i.imgur.com/WGGIzQ9.gif)
+![Output2](https://i.imgur.com/a7q4jlr.gif)
