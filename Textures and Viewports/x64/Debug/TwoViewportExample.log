@@ -1,0 +1,61 @@
+﻿  doublefree.cpp
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(36,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(55,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(55,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(56,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(56,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(57,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(172,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(208,57): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(208,32): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(241,59): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(241,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(241,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(242,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(243,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(258,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(258,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(258,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(264,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(264,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(264,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(265,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(265,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(265,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(268,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(268,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(268,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(317,63): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(317,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(317,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(318,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(319,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(325,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(368,47): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(381,86): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(381,54): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(381,29): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(381,16): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(420,61): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(420,27): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(419,76): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(419,38): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(432,41): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(432,21): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(431,56): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(431,32): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(449,41): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(449,21): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(448,56): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(448,32): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(485,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(490,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(509,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\doublefree.cpp(546,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  point.cpp
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\point.cpp(138,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\point.cpp(138,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\point.cpp(138,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating Code...
+  LINK : C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\x64\Debug\TwoViewportExample.exe not found or not built by the last incremental link; performing full link
+  TwoViewportExample.vcxproj -> C:\Users\Isaac\Documents\Computer Graphics\Examples\TwoViewportExample\TwoViewportExample\x64\Debug\TwoViewportExample.exe
