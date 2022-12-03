@@ -6,4 +6,4 @@ the scene using the mouse and arrow keys.
 
 ### Video:
 
-![Output1](https://i.imgur.com/FDCC54n.gif))
+![Output1](https://i.imgur.com/FDCC54n.gif)
