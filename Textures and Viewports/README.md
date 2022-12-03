@@ -6,6 +6,5 @@ the scene using the mouse and arrow keys.
 
 ### Video:
 
-![Output1](i.imgur.com/xDAZ4hM.gif)
-![Output2](https://i.imgur.com/UglXPEU.gif)
-![Output2](https://imgur.com/UglXPEU)
+![Output1](./animation1.gif)
+![Output2](./animation2.gif)
