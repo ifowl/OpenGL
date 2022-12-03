@@ -10,4 +10,4 @@ I am learning the OpenGL graphical library for C++. Each assignment builds upon 
 ### Pictures:
 
 ![Output1](https://i.imgur.com/a7q4jlr.gif)
-![Output2](./Textures and Viewports/animation1.gif)
+![Output2](./Textures%20and%20Viewports/animation1.gif)
