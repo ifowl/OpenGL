@@ -7,3 +7,5 @@ the scene using the mouse and arrow keys.
 ### Video:
 
 ![Output1](https://i.imgur.com/xDAZ4hM.gif)
+![Output2](https://i.imgur.com/UglXPEU.gif)
+![Output2](https://imgur.com/UglXPEU)
