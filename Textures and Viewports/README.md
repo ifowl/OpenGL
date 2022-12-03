@@ -4,7 +4,7 @@ Finally, I managed to make a fluid animation using trees and textures. Textures 
 The walking speed of the character can be changed as well. Additionally, I included a second viewport with its own camera that can toggled on and off and moved around
 the scene using the mouse and arrow keys.
 
-### Video:
+### Videos:
 
 ![Output1](./animation1.gif)
 ![Output2](./animation2.gif)
