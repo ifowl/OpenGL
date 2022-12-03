@@ -7,7 +7,7 @@ I am learning the OpenGL graphical library for C++. Each assignment builds upon 
 3. Animation
 4. Textures and Viewports
 
-### Pictures:
+### Videos:
 
 ![Output1](./Textures%20and%20Viewports/animation1.gif)
 ![Output2](https://i.imgur.com/a7q4jlr.gif)
